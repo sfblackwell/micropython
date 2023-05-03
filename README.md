@@ -1,4 +1,4 @@
-# A few simple micropython support classes for @adafruit, @pimoroni & @raspberrypi products
+# A few simple micropython support classes for @adafruit, @pimoroni & @raspberry-pi products
 
 ### *** This is a work in progress ***
 
